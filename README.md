@@ -494,3 +494,7 @@ and open the template in the editor.
 ![Screenshot (71)](https://user-images.githubusercontent.com/91425601/229291573-b1d6982b-123d-4e96-a55e-7fab7a7e5c44.png)
     
   
+ ### Course Completion Certificate
+    
+    [JsonPowerDB_Certified_Beginner.pdf](https://github.com/Ashwini171/Ashwini_Kumbhar/files/11129681/JsonPowerDB_Certified_Beginner.pdf)
+
